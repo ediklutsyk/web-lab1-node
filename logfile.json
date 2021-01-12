@@ -1,0 +1,44 @@
+[
+  {
+    "datetime": "2021-01-12T07:43:36.201Z",
+    "remoteAddress": "::1",
+    "method": "GET",
+    "path": "/",
+    "statusCode": 304
+  },
+  {
+    "datetime": "2021-01-12T07:43:38.873Z",
+    "remoteAddress": "::1",
+    "method": "GET",
+    "path": "/",
+    "statusCode": 304
+  },
+  {
+    "datetime": "2021-01-12T07:44:31.576Z",
+    "remoteAddress": "::ffff:127.0.0.1",
+    "method": "GET",
+    "path": "/user/1",
+    "statusCode": 304
+  },
+  {
+    "datetime": "2021-01-12T07:44:35.814Z",
+    "remoteAddress": "::ffff:127.0.0.1",
+    "method": "GET",
+    "path": "/user/123",
+    "statusCode": 304
+  },
+  {
+    "datetime": "2021-01-12T07:44:40.200Z",
+    "remoteAddress": "::ffff:127.0.0.1",
+    "method": "GET",
+    "path": "/",
+    "statusCode": 304
+  },
+  {
+    "datetime": "2021-01-12T07:54:13.847Z",
+    "remoteAddress": "::1",
+    "method": "GET",
+    "path": "/",
+    "statusCode": 304
+  }
+]
